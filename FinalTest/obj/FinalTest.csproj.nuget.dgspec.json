@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\LabCNPM\\FinalTest\\FinalTest.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\SEFinal\\FinalTest\\FinalTest.csproj": {}
   },
   "projects": {
-    "T:\\LabCNPM\\FinalTest\\FinalTest.csproj": {
+    "C:\\Users\\PC\\source\\repos\\SEFinal\\FinalTest\\FinalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\LabCNPM\\FinalTest\\FinalTest.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\SEFinal\\FinalTest\\FinalTest.csproj",
         "projectName": "FinalTest",
-        "projectPath": "T:\\LabCNPM\\FinalTest\\FinalTest.csproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\SEFinal\\FinalTest\\FinalTest.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "T:\\LabCNPM\\FinalTest\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\SEFinal\\FinalTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
